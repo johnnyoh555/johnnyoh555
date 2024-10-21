@@ -5,26 +5,11 @@
 
 
 ### Statistics
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=johnnyoh555&show_icons=true&theme=holi" width = "49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=johnny55" width="42%" height="100%"/>
-</div>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyoh555&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyoh555&show_icons=true&theme=radical&width=400)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://solved.ac/johnny55">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny55" width="400"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyoh555&layout=compact&card_width=400" width="467"/>
+</a>
 
-
-<!--
-**johnnyoh555/johnnyoh555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
