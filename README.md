@@ -2,19 +2,25 @@
 
 ### Skills
 
-<div style="display: flex; align-items: center;">
-    <div>
-        <img src="https://github.com/user-attachments/assets/cc3d8038-97c4-4e67-921d-6d19754fecae" width="400"/>
-    </div>
-    <div style="margin-left: 20px;">
-        <div>
-            tbc...
-        </div>
-        <div>
-            asd
-        </div>
-    </div>
-</div>
+<table>
+    <tr>
+        <td style="vertical-align: top; padding-right: 20px;" width="400">
+            <div>
+                <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+                <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Unreal5-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+            </div>
+        </td>
+        <td>
+            <img src="https://github.com/user-attachments/assets/cc3d8038-97c4-4e67-921d-6d19754fecae" width="400"/>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
 
 
 
