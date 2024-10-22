@@ -11,7 +11,7 @@
                 <img src="https://img.shields.io/badge/Unreal5-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
             </div>
         </td>
-        <td>
+        <td width="400">
             <img src="https://github.com/user-attachments/assets/cc3d8038-97c4-4e67-921d-6d19754fecae" width="400"/>
         </td>
     </tr>
