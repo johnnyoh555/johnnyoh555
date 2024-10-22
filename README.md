@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=RoadToGOTY%20&desc=Jong%20Geun%20Oh&color=auto)
 
 ### Skills
+<div>
+    <a width="450">
+        <img src="https://github.com/user-attachments/assets/cc3d8038-97c4-4e67-921d-6d19754fecae" width="400"/>
+    </a>
+    <a> </a>
+    <a>
+        a
+    </a>
+</div>
 
 
 
