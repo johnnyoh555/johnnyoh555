@@ -18,16 +18,6 @@
     </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
 ### Statistics
 <div>    
     <a href="https://github.com/anuraghazra/github-readme-stats">
